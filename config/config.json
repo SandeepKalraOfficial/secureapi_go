@@ -1,0 +1,6 @@
+{
+  "allowed_origins": [
+    "https://mydomain.com",
+    "http://localhost:8000"
+  ]
+}
